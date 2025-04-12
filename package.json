@@ -1,0 +1,25 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlishMaga/job-portal.git"
+  },
+  "keywords": [],
+  "author": "Alish-Magaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlishMaga/job-portal/issues"
+  },
+  "homepage": "https://github.com/AlishMaga/job-portal#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
